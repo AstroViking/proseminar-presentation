@@ -16,7 +16,6 @@ marp: true
 _class:
  - lead
 -->
-
 # Axion electrodynamics
 ![bg right contain](img/axion-detergent.png)
 
@@ -49,6 +48,7 @@ _class:
 
 
 # Strong CP problem
+![bg right:35% cover](img/Hooft.jpg)
 
 <br />
 
@@ -60,7 +60,7 @@ $$
 
 <br />
 
-* Contains a CP symmetry violating term:
+Contains a CP symmetry violating term:
 
 $$
 - \frac{n_f g^2\theta}{32\pi^2}
@@ -68,37 +68,129 @@ F_{\mu\nu}\tilde F^{\mu\nu}
 $$
 
 
-
 # Strong CP problem
 ## Neutron electric dipole moment
 
 * CP symmetry violation leads to a electric dipole moment for the neutron
 * So far not measured and can only be very tiny
-* Therefore $\theta < 10^{-10} radians$ has to be tiny as well
+* Therefore $\theta$ has to be tiny as well ( $< 10^{-10} \space rad$ )
 * Poses a "naturalness" problem
 
  
 # Strong CP problem
-##  Massless quarks?
+##  Massless quarks
 
-* One massless quark would render CP violation unobservable
-* But empirical evidence strongly suggest that none of the quarks are massless
+* Even one massless quark type would render CP violation unobservable
+* However empirical evidence strongly suggest that none of the quarks are massless
+* Other explanations?
 
 
 # Peccei–Quinn mechanism
+![bg left cover](img/PecceiQuinn.jpg)
+* Postulated by Helen Quinn and Roberto Peccei
+* Promote the $\theta$ parameter to a dynamic field
+* The potential of this field cancels its value  
+* $\theta$ becomes zero uneventfully, naturally resolving the strong CP problem 
 
-* Promote $\theta$ parameter to a dynamic field instead of a constant
-* The potential of this field naturally cancels its value  
-* $\theta$ becomes zero uneventfully 
 
 # Axion field
-
-* $\theta$ as a global $U(1)$ symmetry under which a complex scalar field is charged
+![bg right:20% cover](img/wilczek.jpg)
+![bg vertical cover](img/weinberg.jpg)
 * This symmetry is spontaneously broken by the vacuum expectation value obtained by this scalar field
 * Axion arises as massless Nambu-Goldstone boson of this broken symmetry
+* First postulated independently by Frank Wilczek and Steven Weinberg
+* Named by Frank Wilczek after the laundry detergent Axion
 
-However: 
-* Peccei–Quinn symmetry is inexact
+
+# Possible Axion models
+
+* Original Wilczek/Weinberg axion ruled out
+* Properties depend on the vacuum expectation value $v$ of $\theta$
+* Axion mass and its coupling are inversely proportional to $v$
+* $v$ can be arbitrary with regard to resolving the strong CP problem
+* From experiments and theoretical considerations: $v \gt 10^8 GeV$
+* Axions have been dubbed "invisible"
+
+
+# Axion
+
+* Symbol: $A^0$
+* No electric charge and no spin
+* Mass between $10^{-5}$ to $10^{-3}$ $\frac{eV}{c^2}$
+* Interacts only gravitationally and electromagnetically
+* Very weak interaction
+* Good candidate for dark matter, due to its mass and weak interaction
+
+
+# Axion electrodynamics
+![bg left:35% cover](img/Sikivie.jpg)
+
+* Pierre Sikivie postulated a modification of Maxwell's equations including the interaction with axions
+* Proposed multiple experiments to measure them
+* All rely on axion $\Leftrightarrow$ photon conversion in the presence of strong magnetic fields
+
+
+# Axion electrodynamics
+## Modified Maxwell's equation
+
+| Name          | Equation      | 
+| ------------- |:-------------:|
+| Gauss' law    | $\nabla \cdot (\mathbf{E} - \kappa \theta c \mathbf{B}) = \frac {\rho_e} {\varepsilon_0}$ |
+| Gauss's law for magnetism   | $\nabla \cdot (c \mathbf{B} + \kappa \theta \mathbf{E}) = 0$      |
+| Faraday's law | $\nabla \times (\mathbf{E} - \kappa \theta c \mathbf{B}) = -\partial_{ct} ( c \mathbf{B} + \kappa \theta \mathbf{E} )$ |
+| Ampère's law | $\nabla \times ( c \mathbf{B} + \kappa \theta \mathbf{E}) = \partial_{ct} ( \mathbf{E} - \kappa \theta c \mathbf{B} ) + c \mu_0 \mathbf{J}_e$ |
+| Axion law | $( \Box + m_a^2) \theta = -\kappa \mathbf{E} \cdot \mathbf{B}$ |
+
+
+# Axion electrodynamics
+## Rotating $\bold{E}$ and $\bold{B}$ into one another
+
+<br />
+
+${\displaystyle {\begin{bmatrix}\mathbf {E'} \\c\mathbf {B'} \\\end{bmatrix}}={\frac {1}{\cos \xi }}{\begin{bmatrix}\cos \xi &\sin \xi \\-\sin \xi &\cos \xi \\\end{bmatrix}}{\begin{bmatrix}\mathbf {E} \\c\mathbf {B} \\\end{bmatrix}}} \space\space\space\space\space\space\space\space\space\space$ with $\space\space\space\space\space\space\space\space\space\space\tan \xi = \tan(-\kappa \theta)$
+
+
+# Axion electrodynamics
+## Photon $\Leftrightarrow$ Axion conversion
+![bg right contain](img/axion-photon-interaction.png)
+
+
+# Cosmological considerations
+
+* Axions might have played a critical role in galaxy formation
+* Through axionic domain walls, which are topologically protected sheet-like surfaces generated formed by a sponaneously symmetry
+* Axions may be dark matter halos around galaxies
+
+
+# Experiments
+
+Skivie proposed essentially two types of possible experiments:
+
+* The axion haloscope
+* The axion helioscope
+
+
+# Experiments
+## The axion haloscope
+
+* Rate of photons registered in detector of volume $V$:
+
+
+
+
+# Experiments
+## The axion haloscope
+
+
+
+# Summary
+
+
+
+
+
+
+
 
 
 
