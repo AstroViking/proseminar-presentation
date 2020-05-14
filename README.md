@@ -131,7 +131,7 @@ $$
 
 
 # Axion electrodynamics
-## Modified Maxwell's equation
+## Modified Maxwell's equations
 
 | Name          | Equation      | 
 | ------------- |:-------------:|
@@ -157,14 +157,15 @@ ${\displaystyle {\begin{bmatrix}\mathbf {E'} \\c\mathbf {B'} \\\end{bmatrix}}={\
 
 # Cosmological considerations
 
-* Axions might have played a critical role in galaxy formation
-* Through axionic domain walls, which are topologically protected sheet-like surfaces generated formed by a sponaneously symmetry
-* Axions may be dark matter halos around galaxies
+* Axions might have played a critical role in galaxy formation, through axionic domain walls
+* Axions might be dark matter halos around galaxies
+* Axions might be created by the Primakoff effect
+* Axions might be produced inside the sun
 
 
 # Experiments
 
-Skivie proposed essentially two types of possible experiments:
+Sikivie proposed essentially two types of possible experiments:
 
 * The axion haloscope
 * The axion helioscope
@@ -173,13 +174,20 @@ Skivie proposed essentially two types of possible experiments:
 # Experiments
 ## The axion haloscope
 
-* Rate of photons registered in detector of volume $V$:
+* 
+* 
+*
+
+
+---
+![bg cover](img/axion-haloscope.jpg)
 
 
 
 
 # Experiments
 ## The axion haloscope
+![bg right contain](img/axion-helioscope.jpg)
 
 
 
