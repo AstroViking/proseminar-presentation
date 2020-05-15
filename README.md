@@ -21,25 +21,26 @@ _class:
 
 # Overview
 
-* What is an Axion
+* What is an axion
   * Strong CP problem
   * Peccei–Quinn mechanism
-  * Axion field
+  * The axion field
 * Axion electrodynamics
-* Current experiments
+* Cosmological considerations
+* Experiments
 
 
-# What is an Axion
+# What is an axion
+
+According to Wikipedia:
 
 > The axion is a hypothetical elementary particle postulated by the Peccei–Quinn theory to resolve the strong CP problem in quantum chromodynamics (QCD).
 
 <br />
 
+Why are axions interesting?
+
 > If axions exist and have low mass within a specific range, they are of interest as a possible component of cold dark matter.
-
-<br />
-
-> It is named after a laundry detergent, because it was postulated to remove a stain in the beauty of the theory.
 
 
 # CP symmetry
@@ -53,7 +54,7 @@ _class:
 <br />
 
 $$
-{\mathcal L}_\mathrm{QCD} = -\frac{1}{4} F_{\mu\nu}F^{\mu\nu}-\frac{n_f g^2\theta}{32\pi^2}
+{\mathcal L}_\mathrm{QCD} = -\frac{1}{4} F_{\mu\nu}F^{\mu\nu}-\theta\frac{n_f g^2}{32\pi^2}
 F_{\mu\nu}\tilde F^{\mu\nu}+\bar \psi(i\gamma^\mu D_\mu - m
 e^{i\theta'\gamma_5})\psi
 $$
@@ -63,7 +64,7 @@ $$
 Contains a CP symmetry violating term:
 
 $$
-- \frac{n_f g^2\theta}{32\pi^2}
+L_{\theta} = \theta\frac{n_f g^2}{32\pi^2}
 F_{\mu\nu}\tilde F^{\mu\nu}
 $$
 
@@ -73,9 +74,10 @@ $$
 
 * CP symmetry violation leads to a electric dipole moment for the neutron
 * So far not measured and can only be very tiny
-* Therefore $\theta$ has to be tiny as well ( $< 10^{-10} \space rad$ )
+* Therefore CP violation and $\theta$ has to be tiny as well ( $< 10^{-10} \space rad$ )
 * Poses a "naturalness" problem
-
+* Natural theories have free parameters ($\theta$ in QCD) of the order $1$
+* $\theta$ should be $\approx 1$ and not $\approx 10^{-10}$
  
 # Strong CP problem
 ##  Massless quarks
@@ -93,22 +95,31 @@ $$
 * $\theta$ becomes zero uneventfully, naturally resolving the strong CP problem 
 
 
-# Axion field
+# The axion field
 ![bg right:20% cover](img/wilczek.jpg)
 ![bg vertical cover](img/weinberg.jpg)
-* This symmetry is spontaneously broken by the vacuum expectation value obtained by this scalar field
-* Axion arises as massless Nambu-Goldstone boson of this broken symmetry
+* Th symmetry introduced by Quinn and Peccei is spontaneously broken by the vacuum expectation value of $\theta$
+* The axion arises as massless Nambu-Goldstone boson of this broken symmetry according to Goldstone's theorem
 * First postulated independently by Frank Wilczek and Steven Weinberg
-* Named by Frank Wilczek after the laundry detergent Axion
+* Named by Frank Wilczek after the laundry detergent axion
 
 
-# Possible Axion models
+# The axion field
+
+$$
+L_{\theta} = \theta\frac{n_f g^2}{32\pi^2}
+F_{\mu\nu}\tilde F^{\mu\nu} \implies L_a = \frac{a}{f_a}\frac{n_f g^2}{32\pi^2}
+F_{\mu\nu}\tilde F^{\mu\nu}
+$$
+
+
+# Possible axion models
 
 * Original Wilczek/Weinberg axion ruled out
-* Properties depend on the vacuum expectation value $v$ of $\theta$
-* Axion mass and its coupling are inversely proportional to $v$
-* $v$ can be arbitrary with regard to resolving the strong CP problem
-* From experiments and theoretical considerations: $v \gt 10^8 GeV$
+* Properties depend on the vacuum expectation value $f_a$ of $\theta$
+* Axion mass and its coupling are inversely proportional to $f_a$
+* $f_a$ can be arbitrary with regard to resolving the strong CP problem
+* From experiments and theoretical considerations: $f_a \gt 10^8 GeV$
 * Axions have been dubbed "invisible"
 
 
@@ -174,23 +185,42 @@ Sikivie proposed essentially two types of possible experiments:
 # Experiments
 ## The axion haloscope
 
-* 
-* 
-*
+* Way to measure axions coming from the dark matter halo around our local galaxy
+* Microwave cavity has to be resonantly tuned to the mass of the axion
+* Dynamical cavity length to probe for different possible masses
+* Noise reduction is important
+* The magnetic field has to be inhomogeneous
+* Inhomogeneity can be achieved by embedding wires of a superconducting metal in a material transparent to microwave radiation and cooling down to the cirital temperature
 
 
 ---
 ![bg cover](img/axion-haloscope.jpg)
 
 
-
-
 # Experiments
-## The axion haloscope
+## The axion helioscope
+
+* Same principle as the haloscope but for solar axions
+* Solar axions are expected to be produced in the sun due to the Primakoff effect
+* Solar axions convert to X-rays in the presence of strong magnetic fields
 
 
 ---
 ![bg cover](img/axion-helioscope.jpg)
+
+
+# Current experiments
+
+* Axion Dark Matter Experiment (ADMX)
+  * Haloscope
+  * Sited at the CENPA at the University of Washington
+  * Large collaborative effort
+* CERN Axion Solar Telescope (CAST)
+  * Helioscope
+  * Sited at CERN in Switzerland
+* The International Axion Observatory (IAXO)
+  * Successor to CAST
+* Other experiments like PLVAS that build on other theoretical hypotheses
 
 
 # Summary
@@ -202,19 +232,23 @@ Sikivie proposed essentially two types of possible experiments:
 * Excitingly, it could alsoo be a very natural solution to the problem of dark matter, essentially killing two birds with one stone
 
 
-# Further reading
+# Further readings
 
-The Strong CP Problem and Axions:
+The Strong CP Problem and Axions (R. D. Peccei):
 http://arxiv.org/pdf/hep-ph/0607268.pdf
 
-Experimental Tests of the "Invisible" Axion:
+QCD, Strong CP and Axions (R. D. Peccei):
+https://cds.cern.ch/record/306320/files/9606475.pdf
+
+Experimental Tests of the "Invisible" Axion (P. Sikivie):
 https://sci-hub.tw/10.1103/physrevlett.51.1415
 
-Symmetries in physics:
+Symmetries in physics (N. Beisert):
 http://edu.itp.phys.ethz.ch/hs15/sym/SymHS15Notes.pdf
 
-Symmetry and symmetry breaking in particle physics:
+Symmetry and symmetry breaking in particle physics (Tsou Sheung Tsun):
 https://cds.cern.ch/record/349544/files/9803159.pdf
+
 
 
 
