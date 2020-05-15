@@ -114,7 +114,7 @@ As previously said the axion mass and its couplings to ordinary particles are al
 
 As far as the solution to the strong CP problem is concerned, the value of f sub a is arbitrary.
 
-Values for f sub a with less than ten to the power of eight Giga electron volt have since been ruled out by experiments and theoretical considerations. These axions are so weakly coupled that they have been called "invisible".
+Values for f sub a with less than ten to the power of eight Giga electron volt have since been ruled out by experiments and theoretical considerations. Possible axions need to have a vaccum expectation value even highter then that. These axions are so weakly coupled that they have been called "invisible". They are also absurdly light. If you had as many axions as there are grains of sand on Earth, their combined mass might equal that of a millionth of a billionth of a single sand grain.
 
 
 # Axion
@@ -230,8 +230,12 @@ As a successor to CAST, The International Axion Observatory (IAXO in short) is a
 
 In addition there are also a lot of other experiments that build on more subtler effects of axion electrodynamics that I will not mention in this talk. For instance there is the PVLAS experiment in italy. The name is an italian abbreviation that stands for "polarization of the vacuum with laser", as they explore the phenomena of vacuum magnetic birefringence.
 
+Here you can see the ADMX set up, the actual detector is underground below the floor surrounded by the magnetic field. ADMX's central cavity automatically shifts its resonance frequency every hundred seconds and listens for axions' faint blip. The instrument hums along twentyfour-seven for nine months at a time. At this rate, it will take ADMX about five years to scan the full range it's designed to probe. It is the first machine to directly probe the axion's best-guess masses and to do so it is insanely sensitive. Placed on another planet, ADMX would be so sensitive that it could pick up cellular service from Earth. ADMX's lead scientist Leslie Rosenberg was quoted saying "We could easily get four bars on Mars with your cell phone — easy, no problem." Crazy right?
+
 
 # Summary
+
+I would like to summarize my talk with the following key points.
 
 The axion is an hypothetical particle that appears in extensions of the Standard Model of Particle Physics that include the so-called Peccei-Quinn mechanism. This mechanism was postulated already 35 years ago to explain an standing problem of the Standard Model: the strong-CP problem. The Peccei-Quinn mechanism was proposed to solve this problem in a natural way, without required parameter fine-tunning. As a collateral effect, however, a new particle appears, the axion, which may have important observable consequences. 
 

@@ -120,7 +120,7 @@ $$
 * Axion mass and its coupling are inversely proportional to $f_a$
 * $f_a$ can be arbitrary with regard to resolving the strong CP problem
 * From experiments and theoretical considerations: $f_a \gt 10^8 GeV$
-* Axions have been dubbed "invisible"
+* Axions have been called "invisible"
 
 
 # Axion
@@ -190,7 +190,7 @@ Sikivie proposed essentially two types of possible experiments:
 * Dynamical cavity length to probe for different possible masses
 * Noise reduction is important
 * The magnetic field has to be inhomogeneous
-* Inhomogeneity can be achieved by embedding wires of a superconducting metal in a material transparent to microwave radiation and cooling down to the cirital temperature
+* Inhomogeneity can be achieved by embedding wires of a superconducting metal in a material transparent to microwave radiation and cooling down to the critical temperature
 
 
 ---
@@ -223,13 +223,17 @@ Sikivie proposed essentially two types of possible experiments:
 * Other experiments like PLVAS that build on other theoretical hypotheses
 
 
+---
+![bg cover](img/ADMX-room.jpg)
+
+
 # Summary
 
 * The axion is a hypothetical particle that appears as a solution to the strong CP problem, namely the Peccei-Quinn mechanism
 * It is neutral and very light (but not massless)
 * It interacts only very weakly with conventional matter
 * It could transform into a photon (and viceversa) in the presence of a magnetic field (Axion electrodynamics)
-* Excitingly, it could alsoo be a very natural solution to the problem of dark matter, essentially killing two birds with one stone
+* Excitingly, it could also be a very natural solution to the problem of dark matter, essentially killing two birds with one stone
 
 
 # Further readings
