@@ -187,11 +187,37 @@ Sikivie proposed essentially two types of possible experiments:
 
 # Experiments
 ## The axion haloscope
-![bg right contain](img/axion-helioscope.jpg)
 
+
+---
+![bg cover](img/axion-helioscope.jpg)
 
 
 # Summary
+
+* The axion is a hypothetical particle that appears as a solution to the strong CP problem, namely the Peccei-Quinn mechanism
+* It is neutral and very light (but not massless)
+* It interacts only very weakly with conventional matter
+* It could transform into a photon (and viceversa) in the presence of a magnetic field (Axion electrodynamics)
+* Excitingly, it could alsoo be a very natural solution to the problem of dark matter, essentially killing two birds with one stone
+
+
+# Further reading
+
+The Strong CP Problem and Axions:
+http://arxiv.org/pdf/hep-ph/0607268.pdf
+
+Experimental Tests of the "Invisible" Axion:
+https://sci-hub.tw/10.1103/physrevlett.51.1415
+
+Symmetries in physics:
+http://edu.itp.phys.ethz.ch/hs15/sym/SymHS15Notes.pdf
+
+Symmetry and symmetry breaking in particle physics:
+https://cds.cern.ch/record/349544/files/9803159.pdf
+
+
+
 
 
 

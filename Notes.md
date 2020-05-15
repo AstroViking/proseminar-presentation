@@ -192,7 +192,7 @@ Another promising detection technique, this one independent of the axion being t
 
 The axion haloscope would Sikivie proposed consists of a 
 
-Using previously calculated estimates for the axion flux on earth based on the cosmological considerations described previously, Sikivie 
+Using calculated estimates for the axion flux on earth based on the cosmological considerations described previously, Sikivie showed that it would be possible to build a detector combining a microwave cavity with a magnetic field. 
 
 
 # Current experiments
@@ -203,9 +203,7 @@ Using previously calculated estimates for the axion flux on earth based on the c
 
 # Summary
 
-The axion is an hypothetical particle that appears in extensions of the Standard Model of Particle Physics that include the so-called Peccei-Quinn mechanism. This mechanism was postulated already 35 years ago to explain an standing problem of the Standard Model: the strong-CP problem.
-
-The Peccei-Quinn mechanism was proposed to solve this problem in a natural way, without required parameter fine-tunning. As a collateral effect, however, a new particle appears, the axion, which may have important observable consequences. 
+The axion is an hypothetical particle that appears in extensions of the Standard Model of Particle Physics that include the so-called Peccei-Quinn mechanism. This mechanism was postulated already 35 years ago to explain an standing problem of the Standard Model: the strong-CP problem. The Peccei-Quinn mechanism was proposed to solve this problem in a natural way, without required parameter fine-tunning. As a collateral effect, however, a new particle appears, the axion, which may have important observable consequences. 
 
 In the first place, the axion is a neutral and very light (but not massless) particle, and it does not interact (or does it very weakly)  with conventional matter. In some way one can see the axion as a “strange photon”. 
 
